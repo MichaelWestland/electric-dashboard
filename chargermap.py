@@ -1,7 +1,6 @@
 import requests
 import streamlit as st
 import folium
-from branca.element import Template, MacroElement
 
 config = {
   'baseUrl': 'https://api.openchargemap.io/v3',
